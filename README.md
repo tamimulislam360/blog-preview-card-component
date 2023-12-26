@@ -19,10 +19,9 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-- Source code: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: [Frontend mentor solution](https://your-solution-url.com)
+- Live Site URL: [Live site url.](https://blog-preview-card-component.netlify.app/)
+- Source code: [Github Repo](https://github.com/tamimulislam360/blog-preview-card-component)
 
 ### Built with
 
