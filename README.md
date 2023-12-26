@@ -19,7 +19,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend mentor solution](https://your-solution-url.com)
+- Solution URL: [Frontend mentor solution](https://www.frontendmentor.io/solutions/blog-preview-card-lRjSIW9Fti)
 - Live Site URL: [Live site url.](https://blog-preview-card-component.netlify.app/)
 - Source code: [Github Repo](https://github.com/tamimulislam360/blog-preview-card-component)
 
